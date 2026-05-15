@@ -1,0 +1,21 @@
+{
+  "name": "violetsky",
+  "displayName": "VioletSky",
+  "description": "A dreamy pastel VS Code theme inspired by twilight skies and nightfall",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VioletSky",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VioletSky-color-theme.json"
+      }
+    ]
+  }
+}
