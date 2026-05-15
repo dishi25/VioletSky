@@ -1,6 +1,6 @@
 # VioletSky
 
-A dreamy pastel dark VS Code theme inspired by twilight skies and soft lavender nights.
+A dreamy pastel dark VS Code theme inspired by lavender nights and violet clouds.
 
 ---
 
