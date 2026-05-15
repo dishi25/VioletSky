@@ -2,6 +2,10 @@
   "name": "violetsky",
   "displayName": "VioletSky",
   "description": "A dreamy pastel VS Code theme inspired by twilight skies and nightfall",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/dishi25/VioletSky.git"
+},
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.120.0"
