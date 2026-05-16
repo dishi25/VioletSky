@@ -4,11 +4,7 @@ A colorful pastel dark VS Code theme inspired by lavender nights and violet clou
 
 ---
 
-<<<<<<< HEAD
-# gng i will be back after i get that azure pat ts pmo oh my god bless this
-=======
 # gng i will be back after i get that azure pat ts pmo oh my
->>>>>>> 3be7cfadf3c61095f906818fd28a7f454c88f68d
 
 ## Features
 
