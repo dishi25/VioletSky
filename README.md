@@ -8,11 +8,11 @@ A dreamy pastel dark VS Code theme inspired by lavender nights and violet clouds
 
 ## Features
 
-- 🌙 Soft pastel syntax highlighting
-- 💜 Lavender-inspired UI accents
-- 🪻 Semantic token highlighting support
-- 🌌 Comfortable contrast for long coding sessions (trust)
-- 💻 Designed for Python, C, C++, Java, JSON, and Markdown
+ 🌙 Soft pastel syntax highlighting
+ 💜 Lavender-inspired UI accents
+ 🪻 Semantic token highlighting support
+ 🌌 Comfortable contrast for long coding sessions (trust)
+ 💻 Designed for Python, C, C++, Java, JSON, and Markdown
 
 ---
 
