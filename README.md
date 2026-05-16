@@ -1,6 +1,6 @@
 # VioletSky
 
-A dreamy pastel dark VS Code theme inspired by lavender nights and violet clouds.
+A colorful pastel dark VS Code theme inspired by lavender nights and violet clouds.
 
 ---
 
@@ -8,11 +8,11 @@ A dreamy pastel dark VS Code theme inspired by lavender nights and violet clouds
 
 ## Features
 
- 🌙 Soft pastel syntax highlighting
- 💜 Lavender-inspired UI accents
- 🪻 Semantic token highlighting support
- 🌌 Comfortable contrast for long coding sessions (trust)
- 💻 Designed for Python, C, C++, Java, JSON, and Markdown
+ 🌙 Soft pastel syntax highlighting <br>
+ 💜 Lavender-inspired UI accents <br>
+ 🪻 Semantic token highlighting support <br>
+ 🌌 Comfortable contrast for long coding sessions (trust) <br>
+ 💻 Designed for Python, C, C++, Java, JSON, and Markdown <br>
 
 ---
 
