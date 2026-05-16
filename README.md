@@ -8,6 +8,7 @@ A colorful pastel dark VS Code theme inspired by lavender nights and violet clou
 <p align="center">
   <img src=https://media1.tenor.com/m/RXRdNf5ZGTgAAAAC/purple-lighting-header.gif" width="100%">
 </p>
+
 ## Features
 
  🌙 Soft pastel syntax highlighting <br>
